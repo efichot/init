@@ -12,4 +12,4 @@ Avec ceci, vous aurez le droit à des vidéos dans votre e-learning pour compren
 notions essentielles dont vous aurez besoin.
 
 
->> ```subject: https://cdn.intra.42.fr/pdf/pdf/750/init.fr.pdf```
+>> subject: https://cdn.intra.42.fr/pdf/pdf/750/init.fr.pdf
