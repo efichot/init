@@ -1,0 +1,11 @@
+$ nslookup 10.51.1.253
+
+Server:         10.51.1.42
+Address:        10.51.1.42#53
+
+Non-authoritative answer:
+253.1.51.10.in-addr.arpa        name = dhcp.42.fr.
+
+Authoritative answers can be found from:
+
+C'est donc un serveur DHCP (qui délivre des adresses IP aux ordinateurs qui se connectent au réseau).
