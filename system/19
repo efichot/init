@@ -1,0 +1,1 @@
+sudo /sbin/iptables -A INPUT -j REJECT
